@@ -1,2 +1,2 @@
-# Fundamentos-de-programaci-n---UEA
+# Fundamentos de programacion UEA
 Fundamentos de programación - UEA
